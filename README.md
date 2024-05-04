@@ -1,11 +1,19 @@
-<!--
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=petitpandarouge.petitpandarouge" />
--->
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Damien+Porté!;" />
-</h1>
+# Yop 👋
 
+- 🛠️Craftman
+- 🖌️Artist
+- 🖋️Note-taking lover
+
+Microsoft flavored, I mainly work on dotnet colored projects on Visual Studio and VS Code.
+Anything is a reason to work on my absolutely-fantastic-game-changer-note-taking-app-Obsidian vault 🙌.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+# Give me more...
+- 🌱 I’m currently learning **TypeScript** and **Azure**
+- 😁 Fun fact: I once told a friend of mine the firefox browser logo was more of a panda than a fox. He laughed at me. Because I was right, I've been nicknamed panda since then 🐼
 <!--
 **petitpandarouge/petitpandarouge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
